@@ -16,7 +16,7 @@ Kerberos is a computer-network authentication protocol that works on the basis o
 ## Timestamps
 
 - **Created:** 2025-01-01 
-- **Modified:** 2026-03-16 
+- **Modified:** 2026-04-28 
 
 ## APIs
 
