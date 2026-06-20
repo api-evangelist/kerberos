@@ -6,7 +6,7 @@ description: >-
   prove their identity to one another in a secure manner. It is widely used
   in enterprise environments for single sign-on authentication.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Authentication
   - Kerberos
