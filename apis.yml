@@ -30,6 +30,10 @@ apis:
       - type: Documentation
         url: https://web.mit.edu/kerberos/krb5-latest/doc/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/kerberos-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/kerberos-domain-security.yml
   - type: Website
     url: https://web.mit.edu/kerberos/
   - type: Documentation
