@@ -35,6 +35,11 @@ tags:
   - Authentication
   - Kerberos
   - Security
+  - SSO
+tags_raw:
+  - Authentication
+  - Kerberos
+  - Security
   - Single Sign-On
 url: https://raw.githubusercontent.com/api-evangelist/kerberos/refs/heads/main/apis.yml
 created: '2025-01-01'
