@@ -59,6 +59,12 @@ apis:
       - type: Documentation
         url: https://web.mit.edu/kerberos/krb5-latest/doc/
 common:
+  - type: Plans
+    url: plans/kerberos-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/kerberos-rate-limits.yml
+  - type: FinOps
+    url: finops/kerberos-finops.yml
   - type: VulnerabilityDisclosure
     url: security/kerberos-vulnerability-disclosure.yml
   - type: DomainSecurity
